@@ -1,0 +1,12 @@
+.navbar{
+  background-color: #404c91;
+} 
+
+.nav-link{
+  color: white;
+  font-size: 25px;
+}
+
+.nav-link:hover{
+  scale: 1.2 ease-in 1s;
+}
